@@ -1,0 +1,21 @@
+{
+    "editor.renderIndentGuides": true,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "off",
+    "vsicons.projectDetection.disableDetect": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.mouseWheelZoom": true,
+    "editor.showFoldingControls": "mouseover",
+    "vsicons.dontShowNewVersionMessage": true,
+    "typescript.check.tscVersion": false,
+    "tslint.alwaysShowRuleFailuresAsWarnings": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "tslint.autoFixOnSave": true,
+    "git.autofetch": true
+}
